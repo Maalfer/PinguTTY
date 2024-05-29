@@ -9,3 +9,7 @@ A través de los 4 botones, se copiará en el portapapeles cada uno de los coman
 También contamos con un panel de ayuda:
 
 ![image](https://github.com/Maalfer/PinguTTY/assets/96432001/6d54b2dc-0d06-455a-a6f6-1e335964f848)
+
+También disponemos de la versión hecha en Python por parte de jaavii_rodrgzz:
+
+![image](https://github.com/Maalfer/PinguTTY/assets/96432001/380acd07-a3df-4351-bbed-f60e2616e8f9)
